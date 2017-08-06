@@ -9,4 +9,4 @@ AI and Robotics related papers and new articles that I have read or am planning 
 
 # Robotics
 ### Papers
-- **NASA's First Bipedal Humanoid, Valkyrie [pdf](https://pdfs.semanticscholar.org/f710/201366d7c59c5b8e3916856b0351031c33ea.pdf)** // NASA Valkyrie competed in [2013 DARPA Robotics Challenge](http://archive.darpa.mil/roboticschallengetrialsarchive/) and was simulated for [2017 NASA Space Robotics Challenge](https://www.nasa.gov/directorates/spacetech/centennial_challenges/space_robotics/index.html)
+- **NASA's First Bipedal Humanoid, Valkyrie (R5) [pdf](https://pdfs.semanticscholar.org/f710/201366d7c59c5b8e3916856b0351031c33ea.pdf)** // NASA Valkyrie competed in [2013 DARPA Robotics Challenge](http://archive.darpa.mil/roboticschallengetrialsarchive/) and was simulated for [2017 NASA Space Robotics Challenge](https://www.nasa.gov/directorates/spacetech/centennial_challenges/space_robotics/index.html)
