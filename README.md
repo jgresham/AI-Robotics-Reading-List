@@ -9,6 +9,7 @@ AI and Robotics related papers and new articles that I have read or am planning 
 
 ### Articles
 - **Reinforcement Learning Algorithms with TensorFlow by Arthur Juliani [link](https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-0-q-learning-with-tables-and-neural-networks-d195264329d0)** // 8 part series covering Q-learning, Policy Based Agents, A3C, etc.
+- **5 Common Machine Learning Problems and how neural nets are applied [link](https://cs.stackexchange.com/questions/58131/are-neural-networks-a-type-of-reinforcement-learning-or-are-they-different)** // If you are confused about how Reinforcement learning relates to Neural Nets, regression, or un/supervised learning
 
 # Robotics
 ### Papers
