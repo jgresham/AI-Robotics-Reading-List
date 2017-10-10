@@ -1,5 +1,5 @@
 # AI-Robotics-Reading-List
-AI and Robotics related papers and new articles that I have read or am planning on reading
+AI and Robotics related papers, code, and news articles that I have read or am planning on reading
 
 # AI
 ### Blogs
