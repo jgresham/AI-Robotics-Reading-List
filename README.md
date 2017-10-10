@@ -2,6 +2,9 @@
 AI and Robotics related papers and new articles that I have read or am planning on reading
 
 # AI
+### Blogs
+- **OpenAI [link](https://openai.com/)** // Top-notch AI algs, environments, research, documentation, code
+
 ### Papers
 - **Progressive Networks [pdf](https://arxiv.org/pdf/1606.04671.pdf)** // Transfer learning without forgetting previous tasks
 
