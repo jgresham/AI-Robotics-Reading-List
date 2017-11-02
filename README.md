@@ -4,6 +4,7 @@ AI and Robotics related papers, code, and news articles that I have read or am p
 # AI
 ### Blogs
 - **OpenAI [link](https://openai.com/)** // Top-notch AI algs, environments, research, documentation, code
+- **UC Berkeley AI Research Lab [link](http://bair.berkeley.edu/blog/)** // Bleeding edge AI research
 
 ### Papers
 - **Progressive Networks [pdf](https://arxiv.org/pdf/1606.04671.pdf)** // Transfer learning without forgetting previous tasks
