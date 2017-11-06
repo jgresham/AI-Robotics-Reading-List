@@ -1,6 +1,9 @@
 # AI-Robotics-Reading-List
 AI and Robotics related papers, code, and news articles that I have read or am planning on reading
 
+# Companies
+- **Vicarious [link](https://www.vicarious.com/)** // AI for robots (Bezos backed)
+
 # AI
 ### Blogs
 - **OpenAI [link](https://openai.com/)** // Top-notch AI algs, environments, research, documentation, code
