@@ -2,7 +2,13 @@
 AI and Robotics related papers, code, and news articles that I have read or am planning on reading
 
 # Companies
-- **Vicarious [link](https://www.vicarious.com/)** // AI for robots (Bezos backed)
+- **Vicarious [link](https://www.vicarious.com/)** // AI for robots (Bezos backed, Prof. Fei-Fei Li advisor)
+- **Fetch Robotics [link](http://fetchrobotics.com/)** // Warehouse robots (Williow garage descendant CEO)
+- **Embodied Intelligence [link](http://embody.ai/)** // AI for robots (UC Berkeley AI Research Lab descendants)
+- **Right Hand Robotics [link](https://www.righthandrobotics.com/)** // E-commerce sorting robot
+- **Kindred AI [link](https://www.kindred.ai/)** // E-commerce sorting robot
+- **Rethink Robotics [link](http://www.rethinkrobotics.com/)** // E-commerce sorting, light manufacturing robot (iRobot/Roomba descendant CEO)
+- **Amazon Robotics) [link](https://www.amazonrobotics.com/#/vision)** / Warehouse robots (Aquired Kiva Systems $775M, 2012)
 
 # AI
 ### Blogs
@@ -23,3 +29,4 @@ AI and Robotics related papers, code, and news articles that I have read or am p
 - **NASA's First Bipedal Humanoid, Valkyrie (R5) [pdf](https://pdfs.semanticscholar.org/f710/201366d7c59c5b8e3916856b0351031c33ea.pdf)** // NASA Valkyrie competed in [2013 DARPA Robotics Challenge](http://archive.darpa.mil/roboticschallengetrialsarchive/) and was simulated for [2017 NASA Space Robotics Challenge](https://www.nasa.gov/directorates/spacetech/centennial_challenges/space_robotics/index.html)
 ### Roboschool
 - **OpenAI roboschool [link](https://blog.openai.com/roboschool/)** // OpenAI gym + bullet, physics engine
+- **OpenAI gym + gazebo [link](https://github.com/erlerobot/gym-gazebo/)** // Train gazebo environments with Open AI gym API
