@@ -28,6 +28,7 @@ AI and Robotics related papers, code, and news articles that I have read or am p
 # Robotics
 ### Papers
 - **NASA's First Bipedal Humanoid, Valkyrie (R5) [pdf](https://pdfs.semanticscholar.org/f710/201366d7c59c5b8e3916856b0351031c33ea.pdf)** // NASA Valkyrie competed in [2013 DARPA Robotics Challenge](http://archive.darpa.mil/roboticschallengetrialsarchive/) and was simulated for [2017 NASA Space Robotics Challenge](https://www.nasa.gov/directorates/spacetech/centennial_challenges/space_robotics/index.html)
-### Roboschool
+### Environments
 - **OpenAI roboschool [link](https://blog.openai.com/roboschool/)** // OpenAI gym + bullet, physics engine
 - **OpenAI gym + gazebo [link](https://github.com/erlerobot/gym-gazebo/)** // Train gazebo environments with Open AI gym API
+- **Pybullet [link](https://docs.google.com/document/d/10sXEhzFRSnvFcl3XxNGhnD4N2SedqwdAvK3dsihxVUA/edit#heading=h.2ye70wns7io3)** // Accurate and fast physics simulator with support for articulated bodies. Examples include humanoids running using TensorFlow inference and KUKA arms grasping objects! Impressive
